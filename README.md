@@ -1,6 +1,6 @@
 # Roman-to-Integer-LEETCODE-EASY
 
-Simple Java and Python solution to Roman to Integer Leetcode problem. Java usesSwitch Statement approach which beats 99%. 3ms Runtime. less than 94.35% memeory usage. Python uses if ladders.
+Simple Java and Python solution to Roman to Integer Leetcode problem. Java uses Switch statement approach which beats 99%. 3ms Runtime. less than 94.35% memeory usage. Python uses if ladders.
 
 Instructions:
 
